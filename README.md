@@ -13,11 +13,11 @@
 
 - 👨‍🎓 Pursuing **BTech**
   
-- 👯 I'm looking to collaborate on **AI and Machine Learning projects**
+- 👯 I'm looking to collaborate on **AI ,Deep Learning ,Machine Learning  and Data Science projects**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Mukku27/)
 
-- 💬 Ask me about **GenAI, Machine Learning, Deep Learning**
+- 💬 Ask me about **GenAI ,Deep Learning , Machine Learning ,Data Science**
 
 - 📫 How to reach me: **vemulapallimukesh@gmail.com**
 
@@ -27,7 +27,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-vemulapalli-93a259261)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VemulapalliMuk1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vemulapalli_mukesh/)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/VemulapalliMuk1)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
