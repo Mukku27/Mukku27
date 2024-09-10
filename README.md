@@ -67,7 +67,8 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukku27&theme=blue_green" alt="Repos per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukku27&theme=blue_green" alt="Most Commit Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukku27&theme=blue_green&utcOffset=8" alt="Productive Time" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mukku27&theme=blue-green&layout=compact&hide_border=true" alt="WakaTime Stats" />
+   ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mukku27&theme=blue-green&layout=compact&hide_border=true)
+
 </a>
 
 ## 🏆 GitHub Trophies
