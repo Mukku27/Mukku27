@@ -51,11 +51,12 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+
 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Mukku27&abbreviated=true) <br/>
@@ -66,6 +67,7 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukku27&theme=blue_green" alt="Repos per Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukku27&theme=blue_green" alt="Most Commit Language" />
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukku27&theme=blue_green&utcOffset=8" alt="Productive Time" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Mukku27&theme=blue-green&layout=compact&hide_border=true" alt="WakaTime Stats" />
 </a>
 
 ## 🏆 GitHub Trophies
