@@ -12,11 +12,11 @@
 
 - 👨‍🎓 Pursuing **BTech**
   
-- 👯 I'm looking to collaborate on **AI ,Deep Learning ,Machine Learning  and Data Science projects**
+- 👯 I'm looking to collaborate on **AI, Deep Learning, Machine Learning, and Data Science projects**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Mukku27/)
 
-- 💬 Ask me about **GenAI ,Deep Learning , Machine Learning ,Data Science**
+- 💬 Ask me about **GenAI, Deep Learning, Machine Learning, Data Science**
 
 - 📫 How to reach me: **vemulapallimukesh@gmail.com**
 
@@ -51,7 +51,11 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
+![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Mukku27&abbreviated=true) <br/>
