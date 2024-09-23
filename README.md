@@ -77,6 +77,15 @@
 
 </a>
 
+## 🏆 Hacktoberfest 2024 Badge
+
+[@mukku27](https://github.com/Mukku27) was awarded this badge on **2024-09-23** (UTC).
+
+Badge ID: `cm1f9pkwv08070cl7eqlltzek`
+
+![Hacktoberfest Badge](https://img.shields.io/badge/Hacktoberfest-2024-%23FF4500?style=for-the-badge&logo=hacktoberfest&logoColor=white)
+
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Mukku27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
