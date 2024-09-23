@@ -59,7 +59,7 @@
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Gazebo](https://img.shields.io/badge/Gazebo-626766?style=for-the-badge&logo=gazebo&logoColor=white)
 ![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-
+![Humble ROS](https://img.shields.io/badge/Humble%20ROS-43B02A?style=for-the-badge&logo=ros&logoColor=white)
 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Mukku27&abbreviated=true) <br/>
