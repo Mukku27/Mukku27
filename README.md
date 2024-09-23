@@ -35,6 +35,7 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-%23121011.svg?style=for-the-badge&logo=langchain&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFDA4A.svg?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Groq](https://img.shields.io/badge/Groq-%23000000.svg?style=for-the-badge&logo=groq&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-%234CC9F0.svg?style=for-the-badge&logo=llama&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FCA121.svg?style=for-the-badge&logo=llama&logoColor=white)
