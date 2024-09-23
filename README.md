@@ -58,7 +58,7 @@
 ![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Gazebo](https://img.shields.io/badge/Gazebo-626766?style=for-the-badge&logo=gazebo&logoColor=white)
-
+![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
 
 
 # 📊 GitHub Stats:
