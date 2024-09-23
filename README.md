@@ -78,7 +78,8 @@
 </a>
 
 ## 🎉 Hacktoberfest 2024
-[![Hacktoberfest 2024 Badge](https://holopin.me/cm1f9pkwv08070cl7eqlltzek)](https://holopin.io/)
+[![Hacktoberfest 2024 Badge](https://www.holopin.io/_next/image?url=https%3A%2F%2Fassets.holopin.me%2Fbadges%2Fcm1f9pkwv08070cl7eqlltzek.svg&w=3840&q=75)](https://www.holopin.io/hacktoberfest2024/userbadge/cm1f9pkwv08070cl7eqlltzek)
+
 
 
 ## 🏆 GitHub Trophies
