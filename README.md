@@ -38,6 +38,7 @@
 ![Groq](https://img.shields.io/badge/Groq-%23000000.svg?style=for-the-badge&logo=groq&logoColor=white)
 ![LLaMA](https://img.shields.io/badge/LLaMA-%234CC9F0.svg?style=for-the-badge&logo=llama&logoColor=white)
 ![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FCA121.svg?style=for-the-badge&logo=llama&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-%23FC636B.svg?style=for-the-badge&logo=qdrant&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
