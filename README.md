@@ -4,7 +4,7 @@
 
 # 💫 About Me:
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif">
+
 
 - 🔭 I'm an <b>Aspiring AI & ML Engineer</b>
   
