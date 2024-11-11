@@ -65,8 +65,7 @@
 ![Humble ROS](https://img.shields.io/badge/Humble%20ROS-43B02A?style=for-the-badge&logo=ros&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-%23000000.svg?style=for-the-badge&logo=micropython&logoColor=white)
 
-# 🌟 Open Source Contributions
-[![@Mukku27's Holopin board](https://holopin.io/api/user/board?user=Mukku27)](https://holopin.io/@Mukku27)
+
 
 # 📊 GitHub Stats:
 ![](https://komarev.com/ghpvc/?username=Mukku27&abbreviated=true) <br/>
