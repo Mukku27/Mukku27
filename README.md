@@ -66,7 +66,7 @@
 ![MicroPython](https://img.shields.io/badge/MicroPython-%23000000.svg?style=for-the-badge&logo=micropython&logoColor=white)
 
 # 🌟 Open Source Contributions
-[![@Mukku27's Holopin board](https://holopin.io/api/user/board?user=Mukku27)](https://holopin.io/@Mukku27)
+[![An image of @mukku27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukku27)](https://holopin.io/@mukku27)
 
 
 # 📊 GitHub Stats:
