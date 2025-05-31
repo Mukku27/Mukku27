@@ -6,7 +6,7 @@
 
 
 
-- 🔭 I'm an <b>Aspiring AI & ML Engineer</b>
+- 🔭 I'm an <b> AI & ML Engineer</b>
   
 - 🌱 Currently learning **LLMops**
 
