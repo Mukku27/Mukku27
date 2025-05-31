@@ -10,8 +10,6 @@
   
 - 🌱 Currently learning **LLMops**
 
-- 👨‍🎓 Pursuing **BTech**
-  
 - 👯 I'm looking to collaborate on **AI, Deep Learning, Machine Learning, and Data Science projects**
 
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Mukku27/)
@@ -19,8 +17,6 @@
 - 💬 Ask me about **GenAI, Deep Learning, Machine Learning, Data Science**
 
 - 📫 How to reach me: **vemulapallimukesh@gmail.com**
-
-- ⚡ Fun fact: **I am an ambivert**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-vemulapalli-93a259261)
