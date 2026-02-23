@@ -1,29 +1,29 @@
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
 <img src="https://github.com/Mukku27/Mukku27/blob/main/banner.gif" />
+
 <h1 align="center">Hi 👋, I'm Mukesh</h1>
 
 # 💫 About Me:
 
-
-
-- 🔭 I'm an <b> AI & ML Engineer</b>
-  
+- 🔭 I'm an <b>AI & ML Engineer</b>
 - 🌱 Currently learning **LLMops**
-
 - 👯 I'm looking to collaborate on **AI, Deep Learning, Machine Learning, and Data Science projects**
-
 - 👨‍💻 All of my projects are available on [GitHub](https://github.com/Mukku27/)
-
 - 💬 Ask me about **GenAI, Deep Learning, Machine Learning, Data Science**
-
 - 📫 How to reach me: **vemulapallimukesh@gmail.com**
 
+---
+
 ## 🌐 Socials:
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mukesh-vemulapalli-93a259261)
 [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/VemulapalliMuk1)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vemulapalli_mukesh/)
 
+---
+
 # 💻 Tech Stack:
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -61,33 +61,53 @@
 ![Humble ROS](https://img.shields.io/badge/Humble%20ROS-43B02A?style=for-the-badge&logo=ros&logoColor=white)
 ![MicroPython](https://img.shields.io/badge/MicroPython-%23000000.svg?style=for-the-badge&logo=micropython&logoColor=white)
 
+---
+
 # 🌟 Open Source Contributions
-[![An image of @mukku27's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mukku27)](https://holopin.io/@mukku27)
 
+[![Holopin Badges](https://holopin.me/mukku27)](https://holopin.io/@mukku27)
 
-# 📊 GitHub Stats:
-![](https://komarev.com/ghpvc/?username=Mukku27&abbreviated=true) <br/>
+---
+
+# 📊 GitHub Stats
+
+![](https://komarev.com/ghpvc/?username=Mukku27&abbreviated=true)  
+<br/>
+
 <a href="https://github.com/Mukku27">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mukku27&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mukku27&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mukku27&theme=blue-green&hide_border=true" alt="GitHub Streak" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukku27&theme=blue_green" alt="Repos per Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukku27&theme=blue_green" alt="Most Commit Language" />
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukku27&theme=blue_green&utcOffset=8" alt="Productive Time" />
-   
+
+<img src="https://github-readme-stats-fast.vercel.app/api?username=Mukku27&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Mukku27&theme=blue-green&hide_border=true&include_all_commits=false&count_private=true&layout=compact" />
+
+<img src="https://github-readme-stats-fast.vercel.app/api/streak/?username=Mukku27&theme=blue-green&hide_border=true" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Mukku27&theme=blue_green" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mukku27&theme=blue_green" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukku27&theme=blue_green&utcOffset=8" />
 
 </a>
 
-
-
+---
 
 ## 🏆 GitHub Trophies
+
 ![](https://github-profile-trophy.vercel.app/?username=Mukku27&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+---
+
 ### ✍️ Random Dev Quote
+
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+---
+
 ### 🔝 Top Contributed Repo
+
 ![](https://github-contributor-stats.vercel.app/api?username=Mukku27&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
 
 <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%">
