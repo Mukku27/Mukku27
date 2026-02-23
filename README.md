@@ -21,47 +21,68 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/vemulapalli_mukesh/)
 
 ---
-
-# 💻 Tech Stack:
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-%23121011.svg?style=for-the-badge&logo=langchain&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging%20Face-%23FFDA4A.svg?style=for-the-badge&logo=huggingface&logoColor=black)
-![Groq](https://img.shields.io/badge/Groq-%23000000.svg?style=for-the-badge&logo=groq&logoColor=white)
-![LLaMA](https://img.shields.io/badge/LLaMA-%234CC9F0.svg?style=for-the-badge&logo=llama&logoColor=white)
-![LlamaIndex](https://img.shields.io/badge/LlamaIndex-%23FCA121.svg?style=for-the-badge&logo=llama&logoColor=white)
-![Qdrant](https://img.shields.io/badge/Qdrant-%23FC636B.svg?style=for-the-badge&logo=qdrant&logoColor=white)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-%23121011.svg?style=for-the-badge&logo=ollama&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-%23FF0000.svg?style=for-the-badge&logo=mediapipe&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-%234ea94b.svg?style=for-the-badge&logo=nltk&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![ReactJS](https://img.shields.io/badge/ReactJS-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Gazebo](https://img.shields.io/badge/Gazebo-626766?style=for-the-badge&logo=gazebo&logoColor=white)
-![ROS 2](https://img.shields.io/badge/ROS%202-22314E?style=for-the-badge&logo=ros&logoColor=white)
-![Humble ROS](https://img.shields.io/badge/Humble%20ROS-43B02A?style=for-the-badge&logo=ros&logoColor=white)
-![MicroPython](https://img.shields.io/badge/MicroPython-%23000000.svg?style=for-the-badge&logo=micropython&logoColor=white)
+# 💻 Tech Stack
 
 ---
+
+## 🤖 AI / Machine Learning
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+
+---
+
+## 🧠 Generative AI / LLM Stack
+
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=flat)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFDA4A?style=flat&logo=huggingface&logoColor=black)
+![Langfuse](https://img.shields.io/badge/Langfuse-4B5563?style=flat)
+![Pinecone](https://img.shields.io/badge/Pinecone-16B286?style=flat)
+![Qdrant](https://img.shields.io/badge/Qdrant-FC636B?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-111111?style=flat)
+
+---
+
+## 📊 Data Science
+
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![NLTK](https://img.shields.io/badge/NLTK-4ea94b?style=flat)
+
+---
+
+## ⚙️ Engineering & Tools
+
+![Git](https://img.shields.io/badge/Git-F05033?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-FA0F00?style=flat&logo=jupyter&logoColor=white)
+
+---
+
+## 🖥 Edge AI and Embedding systems
+
+![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=flat&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/Gazebo-626766?style=flat)
+![MicroPython](https://img.shields.io/badge/MicroPython-2B2728?style=flat)
+
+---
+
+## 🌐 Additional Skills
+
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+
+---
+
+
 
 # 🌟 Open Source Contributions
 
