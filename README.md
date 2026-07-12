@@ -115,8 +115,6 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mukku27&theme=blue_green&utcOffset=8" />
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Mukku27&theme=blue-green&layout=compact&hide_border=true)
-
 </a>
 
 ---
